@@ -1,0 +1,7 @@
+ Sample Dataset (sales_data.csv)
+OrderID	Product	CustomerID	Date	Quantity	SalesAmount	Region
+1001	Product A	C001	2023-01-15	3	90	         North
+1002	Product B	C002	2023-01-20	1	45	         South
+1003	Product A	C001	2023-02-12	2	60	         North
+1004	Product C	C003	2023-02-18	5	200	         East
+1005	Product B	C004	2023-03-01
