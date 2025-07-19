@@ -1,0 +1,18 @@
+# Sales Data Analysis Project
+
+This project analyzes sales transactions for an online retail store over the year 2023.
+
+## Features:
+- Data cleaning and validation
+- Monthly sales trends visualization
+- Top products identification
+- Customer purchase behavior analysis
+
+## Tools:
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+## How to run:
+1. Clone the repo
+2. Open the Jupyter notebook `sales_analysis.ipynb`
+3. Run all cells to see analysis and plots
